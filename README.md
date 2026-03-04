@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Poohsama
 
-<!--
-**Poohsama/Poohsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECサイト商品ページ制作と業務効率化ツール開発を行っています。
 
-Here are some ideas to get you started:
+楽天・YahooショッピングなどのECモール運用において  
+作業効率化・ミス削減を目的としたツールを開発しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+HTML  
+CSS  
+Python  
+ECモール商品ページ制作  
+業務自動化ツール開発  
+
+## Portfolio
+
+https://github.com/Poohsama/portfolio
