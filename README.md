@@ -1,4 +1,4 @@
-# MAK.K
+#Mak.K | EC Automation Tools Developer
 
 EC運用の業務改善ツールを開発しています。  
 主にPythonを用いた自動化ツールを作成しています。
