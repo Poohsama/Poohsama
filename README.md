@@ -1,18 +1,19 @@
-# Hi, I'm Poohsama
+# MAK.K
 
-ECサイト商品ページ制作と業務効率化ツール開発を行っています。
+EC運用の業務改善ツールを開発しています。  
+主にPythonを用いた自動化ツールを作成しています。
 
-楽天・YahooショッピングなどのECモール運用において  
-作業効率化・ミス削減を目的としたツールを開発しています。
-
-## Skills
-
-HTML  
-CSS  
-Python  
-ECモール商品ページ制作  
-業務自動化ツール開発  
+I develop automation tools to improve workflow
+for EC marketplace operations.
 
 ## Portfolio
 
 https://github.com/Poohsama/portfolio
+
+## Focus
+
+・EC運用自動化  
+・Pythonスクリプト開発  
+・業務フロー改善
+
+Automation tools for EC marketplace operations.
