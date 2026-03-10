@@ -17,3 +17,5 @@ https://github.com/Poohsama/portfolio
 ・業務フロー改善
 
 Automation tools for EC marketplace operations.
+
+paiza Bランク（Python）
