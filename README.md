@@ -1,42 +1,75 @@
-# Mak.K | Workflow Automation / EC Operations Improvement
+# Mak.K
 
-EC運用の実務で発生する
-- 手作業
-- 属人化
-- 作業待機
+Workflow Automation / EC Operations Improvement
+
+EC運用の現場で発生しやすい、
+
+- 手作業の多さ
+- 更新待機
 - ヒューマンエラー
+- 属人化した業務フロー
 
-を減らすためのツールを開発しています。
+を改善するためのツール開発・業務改善を行っています。
 
-現在の主な強みは、**業務フローを整理したうえで、現場で使える形まで実装すること**です。
-
-## Main Focus
-- 業務改善ツール開発
-- EC運用自動化
-- Web実装（HTML / CSS / JavaScript）
-- Python / .NET による実務ツール化
+---
 
 ## Featured Project
+
 ### .NET CSV Upload Scheduler
-Python未導入の端末でも使える、CSV予約アップロードシステムを開発。
-属人化しやすい夜間・定時更新作業を、GUI付きで運用可能な形に整理しました。
 
-- 予約時刻指定
-- CSV複数管理
+Python未導入のWindows端末でも利用できる、CSV予約アップロードシステムを開発しました。
+
+従来はPython実行環境が必要でしたが、.NET化により配布しやすくし、担当者依存の運用を改善しました。
+
+**主な機能**
+
+- CSVファイル登録
+- 指定時刻アップロード予約
 - YAML設定管理
-- エラー通知対応
-- 非エンジニア利用を意識した運用設計
+- GUI操作対応
+- エラー確認運用
 
-## Portfolio
-- Main Portfolio: [Poohsama/portfolio](https://github.com/Poohsama/portfolio)
+**業務上の価値**
+
+- 夜間更新作業の待機削減
+- 属人化回避
+- 非エンジニア環境でも利用可能
+- 引き継ぎしやすい運用設計
+
+---
 
 ## Skills
-- HTML / CSS / JavaScript
+
+### Web
+
+- HTML
+- CSS
+- JavaScript
+
+### Programming
+
 - Python
-- C# / .NET
+- C#
+- .NET
 - CSV処理
-- 業務フロー改善
-- ECモール運用改善
+- 自動化スクリプト
+
+### Business Domain
+
+- ECモール運用
+- 商品登録 / 更新
+- 業務改善
+- ワークフロー最適化
+
+---
+
+## Portfolio
+
+Main Portfolio Repository  
+https://github.com/Poohsama/portfolio
+
+---
 
 ## Note
-守秘義務のため、実案件コードそのものではなく、設計意図・処理方針・再現可能な範囲の内容で構成しています。
+
+守秘義務のため実案件コードは掲載せず、再現可能な範囲で設計思想・改善内容・成果を公開しています。
