@@ -1,6 +1,6 @@
 # Mak.K
 
-Workflow Automation / Practical Improvement Builder
+Workflow Automation / Business Process Improvement
 
 現場で発生する手作業・待機時間・属人化業務を、  
 ツール開発と仕組み化で改善しています。
@@ -28,6 +28,19 @@ GUI対応により、担当者依存になりやすい更新業務を標準化�
 - CSV複数管理
 - YAML設定管理
 - Windows配布対応
+- 年間約90時間の工数削減見込み
+
+---
+
+### Multi-Mall Sales Aggregation Tool
+
+複数モールのCSVを統合し、Excelテンプレートへ自動反映する業務支援ツール。
+
+- 楽天 / Yahoo / au / Amazon / Qoo10対応
+- YAMLマッピング管理
+- 自動オートフィル
+- 日次集計 約25分 → 約3分
+- 年間約100時間の工数削減見込み
 
 ---
 
@@ -66,12 +79,15 @@ GUI対応により、担当者依存になりやすい更新業務を標準化�
 
 ## Portfolio
 
-Main Works:  
-https://github.com/Poohsama/portfolio
+Project Portfolio:  
+:contentReference[oaicite:0]{index=0}
 
 ---
 
 ## Note
 
 守秘義務のため実案件コードは公開していません。  
-再現可能な範囲で、改善実績・設計思想・成果をまとめています。
+公開可能な範囲で、改善内容・設計思想・成果を再現しています。
+
+「何を作ったか」だけではなく、  
+「何を解決したか」を重視しています。
