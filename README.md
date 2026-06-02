@@ -20,11 +20,13 @@ EC運営やバックオフィス業務で発生する
 
 ## Main Project
 
-### Sales Aggregation Automation Tool
+## Sales Aggregation Automation Tool
 
 複数ECモールで発生する売上集計業務を自動化するために開発したツールです。
 
-### Background
+---
+
+### ■ Background
 
 売上集計業務では、
 
@@ -48,7 +50,9 @@ EC運営やバックオフィス業務で発生する
 それぞれでCSV形式や管理項目が異なるため、
 担当者の経験に依存しやすい運用になっていました。
 
-### Solution
+---
+
+### ■ Solution
 
 Pythonを利用し、
 
@@ -91,7 +95,9 @@ Pythonを利用し、
 
 を実装しました。
 
-### Design Decisions
+---
+
+### ■ Design Decisions
 
 売上データを扱うため、
 処理速度よりも安全性と運用性を重視しました。
@@ -106,7 +112,9 @@ Pythonを利用し、
 単なる作業自動化ではなく、
 継続して運用できる仕組みづくりを重視しています。
 
-### Result
+---
+
+### ■ Result
 
 * 日次集計時間 約25分 → 約3分へ短縮見込み
 * 月40時間規模の作業削減見込み
