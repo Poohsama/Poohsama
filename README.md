@@ -15,7 +15,7 @@ EC運営やバックオフィス業務で発生する
 「なんとなく面倒」を小さな自動化に変える考え方を、  
 実務経験をもとにまとめたKindle書籍です。
 
-[Amazonで見る]([本のURL](https://amzn.asia/d/066FyH8h))
+[Amazonで見る](https://amzn.asia/d/066FyH8h)
 
 ---
 
